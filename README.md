@@ -51,15 +51,6 @@ The dataset is publicly hosted on Figshare and includes 8,953 activities collect
 
 ---
 
-## 🔬 Future Work
-
-- Incorporate RNNs or LSTMs for temporal modeling of fall sequences
-- Develop hybrid semi-supervised approaches (e.g. pseudo-labeling)
-- Deploy real-time systems with personalization and online learning
-- Improve clustering with deep autoencoders or t-SNE
-
----
-
 ## ⚠️ Disclaimer
 
 This project is a student research submission and should not be used for clinical deployment without further validation.
